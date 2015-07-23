@@ -3,6 +3,5 @@ public Hello {
 		System.out.println("the first project on github!");
 		System.out.println("hahaha");
 		System.out.println("end");
-		System.out.println("test branch");
 	}
 }
